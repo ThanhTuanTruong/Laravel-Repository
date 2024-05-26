@@ -1,4 +1,4 @@
-![image](https://github.com/ThanhTuanTruong/Laravel-Repository/assets/30792959/a9378310-0693-48a8-be52-9aa8b24c364e)## About Laravel Repository
+## About Laravel Repository
 
 Yes, indeed, there are many ways that laravel can interpret the CRUD functionality. But I personally suggest the service-repository design pattern because it’s clean and sustainable. The concept of repositories and services ensures that you write reusable code and helps to keep your controller as simple as possible making them more readable.
 
